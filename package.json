@@ -1,0 +1,12 @@
+{
+  "name": "debug-project",
+  "version": "0.0.0",
+  "description": "Test ecosystem.",
+  "main": "src/index.js",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "nextjs-blog",
+    "widgets"
+  ]
+}
